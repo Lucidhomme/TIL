@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T05:46:41.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="eKZbePyLtZEmFh9CWzR-" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-19T05:53:15.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="AEJdJnhphJ8UyKxP8Fgc" version="14.9.6" type="github">
   <diagram id="M5aYpJr7jo9P90h-YWN0" name="Page-1">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,8 +98,48 @@
         <mxCell id="rSPQiEW2BWppoo7q48J1-31" value="서비스&lt;br&gt;등록&lt;br&gt;여부" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="150" y="325" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rSPQiEW2BWppoo7q48J1-32" value="서비스탐색" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="rSPQiEW2BWppoo7q48J1-32" value="판매" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="145" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSPQiEW2BWppoo7q48J1-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="390" as="sourcePoint" />
+            <mxPoint x="185" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="410" />
+              <mxPoint x="185" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSPQiEW2BWppoo7q48J1-36" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.5" y="500" as="sourcePoint" />
+            <mxPoint x="184.5" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSPQiEW2BWppoo7q48J1-37" value="판매취소" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="145" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSPQiEW2BWppoo7q48J1-38" value="Yes" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="395" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rSPQiEW2BWppoo7q48J1-39" value="No" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="325" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rSPQiEW2BWppoo7q48J1-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="359.5" as="sourcePoint" />
+            <mxPoint x="280" y="359.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSPQiEW2BWppoo7q48J1-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rSPQiEW2BWppoo7q48J1-41" target="rSPQiEW2BWppoo7q48J1-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSPQiEW2BWppoo7q48J1-41" value="서비스&lt;br&gt;등록심사" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSPQiEW2BWppoo7q48J1-42" value="서비스등록" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="420" y="340" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
