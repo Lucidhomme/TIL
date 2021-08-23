@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-13T02:07:58.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="4mKRePAVlgb8dpSeOSOk" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-23T03:45:12.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="zgt74TAq3vA9Hg_cAhO-" version="14.9.8" type="github">
   <diagram id="nYiRIeSHOg5MPnFf_H3z" name="Page-1">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,8 +67,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MIB-RSdA4s0meyl00Pk_-20" value="Yes" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="180" width="30" height="20" as="geometry" />
+        <mxCell id="MIB-RSdA4s0meyl00Pk_-20" value="Yes&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;*투자사명만 승인필요" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="175" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MIB-RSdA4s0meyl00Pk_-21" value="&lt;font style=&quot;font-size: 10px&quot;&gt;투자사 정보입력&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="120" width="100" height="40" as="geometry" />
@@ -139,15 +139,6 @@
         <mxCell id="MIB-RSdA4s0meyl00Pk_-54" value="&lt;font style=&quot;font-size: 10px&quot;&gt;관리자 승인여부&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="310" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MIB-RSdA4s0meyl00Pk_-55" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="269.5" y="255" as="sourcePoint" />
-            <mxPoint x="270" y="305" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="269.5" y="265" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MIB-RSdA4s0meyl00Pk_-56" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="339.5" as="sourcePoint" />
@@ -203,8 +194,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MIB-RSdA4s0meyl00Pk_-67" value="Yes" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="130" y="440" width="30" height="20" as="geometry" />
+        <mxCell id="MIB-RSdA4s0meyl00Pk_-67" value="Yes&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; *기업명만 승인필요" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="435" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MIB-RSdA4s0meyl00Pk_-68" value="No" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="380" width="30" height="20" as="geometry" />
@@ -276,7 +267,7 @@
         <mxCell id="MIB-RSdA4s0meyl00Pk_-88" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="1" vertex="1">
           <mxGeometry x="332.11" y="395" width="37.89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MIB-RSdA4s0meyl00Pk_-89" value="&lt;font style=&quot;font-size: 8px&quot;&gt;*입력정보&lt;br&gt;기업명, 한줄소개, 상세소개, 소개이미지&lt;br&gt;비즈니스분야, 활용기술, 희망투자단계, 희망투자금액&lt;br&gt;대표자명, 기업설립일, 홈페이지, SNS, 기업주소&lt;br&gt;주요뉴스 URL, IR/사업계획서, 사업자등록번호, 사업자등록증&lt;br&gt;투자기관, 투자일자, 투자단계, 투자금액, 기업가치, 정보공개여부&lt;br&gt;서비스명, 한줄소개, 상세소개, 태그, 로고, 소개이미지, 관련URL,&amp;nbsp;&lt;br&gt;팀원수, 한줄소개, 상세소개, 구성원이름/직책, 프사, 간단이력, 정보공개여부&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MIB-RSdA4s0meyl00Pk_-89" value="&lt;font style=&quot;font-size: 8px&quot;&gt;*입력정보&lt;br&gt;기업명, 한줄소개, 상세소개, 소개이미지&lt;br&gt;비즈니스분야, 활용기술, 희망투자단계, 희망투자금액&lt;br&gt;대표자명, 기업설립일, 홈페이지, SNS, 기업주소&lt;br&gt;주요뉴스 URL, IR/사업계획서, 사업자등록번호, 사업자등록증&lt;br&gt;투자기관, 투자일자, 투자단계, 투자금액, 정보공개여부&lt;br&gt;서비스명, 한줄소개, 상세소개, 태그, 로고, 소개이미지, 관련URL,&amp;nbsp;&lt;br&gt;팀원수, 한줄소개, 상세소개, 구성원이름/직책, 프사, 간단이력, 정보공개여부&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="400" width="350" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MIB-RSdA4s0meyl00Pk_-90" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -315,6 +306,18 @@
         </mxCell>
         <mxCell id="MIB-RSdA4s0meyl00Pk_-97" value="Yes" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="380" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HLD20uCnS9SPVQ_p1T6E-1" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="290" as="sourcePoint" />
+            <mxPoint x="269.5" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLD20uCnS9SPVQ_p1T6E-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270.5" y="290" as="sourcePoint" />
+            <mxPoint x="270.5" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
