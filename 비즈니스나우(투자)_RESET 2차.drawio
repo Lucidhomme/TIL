@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T12:51:17.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="FnDIE-zD3wmR3OMIQZnA" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-12T12:51:23.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="soYKI-vR6CNo_ODG5DPy" version="15.1.4" type="github">
   <diagram id="dfvJW5Lfn74AIO5DTFk8" name="Page-1">
     <mxGraphModel dx="1483" dy="2009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -393,7 +393,7 @@
           <mxGeometry x="1478" y="385" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Apj9eic0G-zYuKpP5c-M-120" value="IR요청&lt;br&gt;ON" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="295" y="180" width="50" height="30" as="geometry" />
+          <mxGeometry x="310" y="180" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
