@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T00:24:29.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="8LfX-GdAC2wiHt0k_kqZ" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T00:26:18.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="ECU_0rIP-ew8kri3mFPE" version="15.8.3" type="github">
   <diagram id="gD5msPuNiPiTAfF6Eoq4" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,12 @@
         </mxCell>
         <mxCell id="0motNkOjo0MHVhQcWbno-3" value="ID, 비밀번호, 회사명(한글/영문), 대표자명(한글/영문)&lt;br&gt;연락처, 팩스, 사업자번호, 이메일, 주소" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="100" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0motNkOjo0MHVhQcWbno-4" value="이름(한글/영문), 아이디(이메일), 휴대폰, 연락처, 직책, 부서, 자격등급" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="170" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0motNkOjo0MHVhQcWbno-5" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="35" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
