@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T04:11:46.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="Nk1ZJy20YsZQF_0xvRTM" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T04:14:04.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="-W-o6SawKlcZNoEj1OI7" version="15.8.3" type="github">
   <diagram id="-kC8-EX9NPomtugNLF3H" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -200,8 +200,8 @@
         <mxCell id="x1_s0fbQaFr76W7rGfXg-41" value="테넌트전환 동의" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1190" y="330" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x1_s0fbQaFr76W7rGfXg-42" value="&lt;ul&gt;&lt;li&gt;MS Admin계정 로그인&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="355" width="170" height="40" as="geometry" />
+        <mxCell id="x1_s0fbQaFr76W7rGfXg-42" value="&lt;ul&gt;&lt;li&gt;End User의 MS Admin&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="355" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x1_s0fbQaFr76W7rGfXg-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
