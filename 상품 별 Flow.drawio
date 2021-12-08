@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T02:05:04.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="67XmtJGYufXlBaGH45jc" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T04:44:51.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="RJ-F4WBzOfXmjA55qglg" version="15.9.1" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
           <mxGeometry x="515.5" y="70" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zp6rRj_maZluac3LyFAB-15" value="*글로벌 전역관리자 권한" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="70" width="150" height="20" as="geometry" />
+          <mxGeometry x="339" y="70" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
