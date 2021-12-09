@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T00:13:57.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="7mcANHSbkJen0u18YkGp" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T06:37:58.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="HmO_MBIDoiN30ndq1VYm" version="15.9.1" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="35" y="60" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jZ0jSoJBSHUuLXD9sUMY-18" value="3) 빌링" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="42.5" y="730" width="50" height="20" as="geometry" />
+          <mxGeometry x="35" y="520" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jZ0jSoJBSHUuLXD9sUMY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jZ0jSoJBSHUuLXD9sUMY-20" target="jZ0jSoJBSHUuLXD9sUMY-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="jZ0jSoJBSHUuLXD9sUMY-26" value="리셀러-고객 간&lt;br&gt;관계 맺기" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="707.5" y="95" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jZ0jSoJBSHUuLXD9sUMY-27" value="CSP 간접 리셀러&lt;br&gt;등록" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="jZ0jSoJBSHUuLXD9sUMY-27" value="CSP 간접 리셀러&lt;br&gt;등록(CSP 가입)" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="354" y="95" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jZ0jSoJBSHUuLXD9sUMY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jZ0jSoJBSHUuLXD9sUMY-35" target="jZ0jSoJBSHUuLXD9sUMY-36" edge="1">
