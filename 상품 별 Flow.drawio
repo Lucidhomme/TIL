@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T08:23:37.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="wqGJI6xZ7LIXgEkdGM3j" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T08:37:18.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="B_h4V450wDehGZWZhqDy" version="15.9.1" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,6 +238,27 @@
         </mxCell>
         <mxCell id="MoLYa7cNz7H3YmrfVmoX-58" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="410" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLYa7cNz7H3YmrfVmoX-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MoLYa7cNz7H3YmrfVmoX-60" target="MoLYa7cNz7H3YmrfVmoX-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLYa7cNz7H3YmrfVmoX-60" value="사용량 / 비용 확인" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1190" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLYa7cNz7H3YmrfVmoX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MoLYa7cNz7H3YmrfVmoX-61" target="MoLYa7cNz7H3YmrfVmoX-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLYa7cNz7H3YmrfVmoX-61" value="인보이스 발행" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="234" y="1195" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLYa7cNz7H3YmrfVmoX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MoLYa7cNz7H3YmrfVmoX-63" target="MoLYa7cNz7H3YmrfVmoX-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLYa7cNz7H3YmrfVmoX-63" value="고객사 대금 수취" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1195" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoLYa7cNz7H3YmrfVmoX-65" value="공급사 대금 지불" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1195" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
