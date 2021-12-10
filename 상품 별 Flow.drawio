@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T00:51:28.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="5wvGO8avvtIUSGeeS22o" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T00:52:24.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="6u39ev9_38CimqpcdJNS" version="15.9.4" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
             <mxPoint x="150" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MoLYa7cNz7H3YmrfVmoX-1" value="고객정보 &lt;br&gt;입력" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="MoLYa7cNz7H3YmrfVmoX-1" value="고객선택" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="30" y="370" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MoLYa7cNz7H3YmrfVmoX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="w1osnGguPHcnNslTpG4n-19" target="MoLYa7cNz7H3YmrfVmoX-4" edge="1">
