@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T00:08:10.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="d47Yqp3L3yzCmdSjGbkU" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T00:08:34.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="e5iiDZZ5xncSr4FmbP2B" version="15.9.4" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,8 +85,8 @@
         <mxCell id="Zp6rRj_maZluac3LyFAB-12" value="&lt;span&gt;고객사정보&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;: 회사명, 대표자명, 사업자번호,&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp; 담당자명, 담당자연락처, 담당자이메일,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp; 담당자직책,&amp;nbsp;&lt;/span&gt;&lt;span&gt;국가, 도시, 주, Zipcode, 도로명(빌링주소인지 체크)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp; 도메인 설정, 특별자격, MPA계약동의&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1070" y="171" width="300" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Zp6rRj_maZluac3LyFAB-14" value="*Reseller에게 이메일 발송" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="515.5" y="70" width="150" height="20" as="geometry" />
+        <mxCell id="Zp6rRj_maZluac3LyFAB-14" value="*Reseller에게 초대메일 발송" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="505.5" y="70" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zp6rRj_maZluac3LyFAB-15" value="*MS 글로벌 전역관리자 권한" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="329" y="55" width="170" height="20" as="geometry" />
