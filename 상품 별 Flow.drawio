@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T00:40:09.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="Pp6q2dp_bmCTyL14kcW_" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T00:56:47.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="M6sTb25d6BnvRx3mCy3L" version="15.9.6" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -397,20 +397,41 @@
         <mxCell id="x6lxZDlceFVpdXFvNisg-10" value="*고객과 파트너 테넌트 동일한 지역이어야함" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="970" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xGOP9Eh6eVyP-2dt73vl-1" value="Provider" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2240" width="60" height="20" as="geometry" />
+        <mxCell id="xGOP9Eh6eVyP-2dt73vl-1" value="Indirect Provider" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2240" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xGOP9Eh6eVyP-2dt73vl-3" value="Indirect Provider 선정" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="xGOP9Eh6eVyP-2dt73vl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xGOP9Eh6eVyP-2dt73vl-3" target="xGOP9Eh6eVyP-2dt73vl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xGOP9Eh6eVyP-2dt73vl-3" value="Indirect Provider 등록" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="45" y="2290" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xGOP9Eh6eVyP-2dt73vl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xGOP9Eh6eVyP-2dt73vl-4" target="xGOP9Eh6eVyP-2dt73vl-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xGOP9Eh6eVyP-2dt73vl-4" value="파트너 관계요청&lt;br&gt;(To 리셀러)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="2295" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xGOP9Eh6eVyP-2dt73vl-5" value="ㅌ" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xGOP9Eh6eVyP-2dt73vl-5" value="승인" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="2295" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGOP9Eh6eVyP-2dt73vl-6" value="*Provider로부터 메일수신" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="491.25" y="110" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xGOP9Eh6eVyP-2dt73vl-7" value="*메일발신" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="269" y="2275" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xGOP9Eh6eVyP-2dt73vl-8" value="End-User 추가" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="2470" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGOP9Eh6eVyP-2dt73vl-9" value="사용자계정 및 임시암호 생성" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="254.25" y="2470" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGOP9Eh6eVyP-2dt73vl-10" value="계정 전달" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="453" y="2470" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGOP9Eh6eVyP-2dt73vl-11" value="계정 전달" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="653.5" y="2470" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
