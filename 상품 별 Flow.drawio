@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T00:57:38.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="G21UQB8VkVJ5I9LQycQe" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T02:12:40.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="9OQXEAHQrN9B2vdIamyD" version="15.9.6" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="30" y="55" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jZ0jSoJBSHUuLXD9sUMY-18" value="6) 빌링" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="45" y="1960" width="50" height="20" as="geometry" />
+          <mxGeometry x="42.5" y="1980" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yiiqBciscbfqafJrFP4t-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jZ0jSoJBSHUuLXD9sUMY-20" target="jZ0jSoJBSHUuLXD9sUMY-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -239,7 +239,7 @@
           <mxGeometry x="171.5" y="1195" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w1osnGguPHcnNslTpG4n-24" value="*신규 추가 시 고객사 정보 등록 필요" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="22.5" y="1169" width="210" height="20" as="geometry" />
+          <mxGeometry y="1169" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w1osnGguPHcnNslTpG4n-26" value="*테넌트 별 MCuA동의 체크필수" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="306.5" y="1170" width="180" height="20" as="geometry" />
