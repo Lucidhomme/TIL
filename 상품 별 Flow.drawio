@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T00:23:14.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="PBcZAG53EmJyUa7aKo21" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T00:25:36.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="e-X0x1Pxl5M859DLYIqp" version="16.1.2" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -543,6 +543,57 @@
         </mxCell>
         <mxCell id="_ZmIt5JVzIrqZUVVzqY8-3" value="로그인 완료" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1490" y="296" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZmIt5JVzIrqZUVVzqY8-6" target="_ZmIt5JVzIrqZUVVzqY8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-6" value="사용자 추가" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="26.25" y="2970" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-7" value="*관리자 권한" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="41.25" y="2950" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZmIt5JVzIrqZUVVzqY8-9" target="_ZmIt5JVzIrqZUVVzqY8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-9" value="사용자 정보입력" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="207.25" y="2975" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-10" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207.25" y="3010" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-11" value="&lt;span&gt;사용자정보&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;: 이름, ID(이메일), PW, 전화번호, 직책&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;(관리자뷰)활성화토글, 권한부여&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="207.25" y="3050" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZmIt5JVzIrqZUVVzqY8-13" target="_ZmIt5JVzIrqZUVVzqY8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-13" value="이메일 중복체크" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390.5" y="2975" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-14" value="비밀번호 확인" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390.5" y="3020" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZmIt5JVzIrqZUVVzqY8-16" target="_ZmIt5JVzIrqZUVVzqY8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-16" value="사용자 추가완료" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="572.25" y="2975" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-17" value="가입완료 메일발송" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="572.25" y="3020" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ZmIt5JVzIrqZUVVzqY8-19" target="_ZmIt5JVzIrqZUVVzqY8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-19" value="가입완료 메일확인&lt;br&gt;(초대 URL)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="745" y="2975" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-20" value="로그인" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="913.75" y="2975" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZmIt5JVzIrqZUVVzqY8-21" value="1) 사용자 추가" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2923" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
