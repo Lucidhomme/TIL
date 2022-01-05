@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T12:16:16.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="KrevbW8yWA_OIC9S2IgE" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T12:16:28.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="krvuETmskw4IEdgKeBSQ" version="16.1.4" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -947,7 +947,7 @@
           <mxGeometry x="1007" y="1790" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jiECZz7fGckPXylajzZf-159" value="공급사 검토(가격, 여신)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="929.75" y="1649" width="140" height="20" as="geometry" />
+          <mxGeometry x="930" y="1682" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jiECZz7fGckPXylajzZf-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jiECZz7fGckPXylajzZf-161" target="jiECZz7fGckPXylajzZf-163">
           <mxGeometry relative="1" as="geometry" />
@@ -983,7 +983,7 @@
           <mxGeometry x="1435.5" y="1710" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jiECZz7fGckPXylajzZf-168" value="Reseller" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1443.75" y="1654" width="60" height="20" as="geometry" />
+          <mxGeometry x="1445.5" y="1687" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jiECZz7fGckPXylajzZf-169" value="Yes" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1513" y="1725" width="30" height="20" as="geometry" />
