@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T10:35:57.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="qDwcl6pQ1UsBadMthzzi" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T10:36:42.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="GiS8w4SrxX7wqdSCu9Jc" version="16.1.4" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -885,6 +885,9 @@
         </mxCell>
         <mxCell id="jiECZz7fGckPXylajzZf-101" value="ID, PW, 제품명, SKU, &lt;br&gt;청구주기, 계약기간, &lt;br&gt;수량, 금액" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1905" y="1440" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jiECZz7fGckPXylajzZf-104" value="New Commerce 전환" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1246" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
