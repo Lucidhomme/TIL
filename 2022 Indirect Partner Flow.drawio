@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T03:49:25.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="rxjL7ZYWPzuoy-6-QPJb" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T03:49:55.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="qZEqjz81jVEak4zyVUOp" version="16.1.4" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -396,7 +396,7 @@
         <mxCell id="x6lxZDlceFVpdXFvNisg-6" value="*고객이 MS 어드민 권한 필요" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="386.75" y="950" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x6lxZDlceFVpdXFvNisg-8" value="End-User와 관계설정&lt;br&gt;완료" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="x6lxZDlceFVpdXFvNisg-8" value="End-User와&lt;br&gt;관계설정완료" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="588.5" y="995" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x6lxZDlceFVpdXFvNisg-10" value="*고객과 파트너 테넌트 동일한 지역이어야함" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
