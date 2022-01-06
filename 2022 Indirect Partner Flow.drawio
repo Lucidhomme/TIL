@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T06:15:02.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="1PQSvotkkKOl3URvXf1u" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-06T06:15:23.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="_I7M-JibdDj8mwzBgjXD" version="16.2.2" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -916,8 +916,8 @@
         <mxCell id="jiECZz7fGckPXylajzZf-158" value="No" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1007" y="1790" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jiECZz7fGckPXylajzZf-159" value="공급사 검토(가격, 여신)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="930" y="1682" width="140" height="20" as="geometry" />
+        <mxCell id="jiECZz7fGckPXylajzZf-159" value="공급사 검토(가격)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="945" y="1682" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jiECZz7fGckPXylajzZf-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jiECZz7fGckPXylajzZf-161" target="jiECZz7fGckPXylajzZf-163" edge="1">
           <mxGeometry relative="1" as="geometry" />
