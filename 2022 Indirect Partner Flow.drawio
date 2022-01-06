@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T00:17:07.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="9HeI9LHxMPTrXim8Vtrs" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-06T00:39:21.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="FbF4i2eBE_RMeIXrXZ17" version="16.2.2" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1205,6 +1205,9 @@
         </mxCell>
         <mxCell id="t7yyZvSMRt4UFGwBYPYK-1" value="3일 이후 취소불가, 3일 이내 취소 시 일할계산&amp;nbsp;&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2358.25" y="1215" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t7yyZvSMRt4UFGwBYPYK-2" value="30일전까지 취소가능" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2371.75" y="2028" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
