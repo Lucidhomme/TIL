@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T00:35:01.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="uix_BJ5nbVC02-Sl0-s6" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T00:35:10.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="oYyH4FL4QAkM2QoXxQ3e" version="16.2.2" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -572,8 +572,8 @@
         <mxCell id="bMdnd7Ke1l1wz5ZGlFLW-31" value="To End-User 대표메일" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="602.5" y="3458" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jiECZz7fGckPXylajzZf-2" value="&lt;font color=&quot;#ff0000&quot;&gt;포탈과 별도&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="51.25" y="75" width="80" height="20" as="geometry" />
+        <mxCell id="jiECZz7fGckPXylajzZf-2" value="&lt;font color=&quot;#ff0000&quot;&gt;*포탈과 별도&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="42.5" y="75" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jiECZz7fGckPXylajzZf-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
