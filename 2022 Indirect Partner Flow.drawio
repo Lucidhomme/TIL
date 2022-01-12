@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T10:24:03.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="kgub3cGMT3Tn-7DJtfKR" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T10:24:23.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="ghjFow9goq9GFkuDqpTJ" version="16.2.4" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -587,7 +587,7 @@
         <mxCell id="jiECZz7fGckPXylajzZf-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="394.75" y="1152" as="sourcePoint" />
-            <mxPoint x="393" y="2000" as="targetPoint" />
+            <mxPoint x="393" y="2280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jiECZz7fGckPXylajzZf-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -1459,6 +1459,12 @@
         </mxCell>
         <mxCell id="rNmtEtXV-sjmZtKAtQdB-39" value="Reactive 택1 + Proactive 택1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="421.25" y="2295" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rNmtEtXV-sjmZtKAtQdB-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="394.25" y="2274.5" as="sourcePoint" />
+            <mxPoint x="450.75" y="2275" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
