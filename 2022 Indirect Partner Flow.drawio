@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T09:11:04.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="L2dBWN2ca5Wv5rDTd-B3" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T09:14:35.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="rGTZcz0XSZKioyryGN1g" version="16.4.3" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1451,7 +1451,7 @@
         <mxCell id="enLWqCuwbVguiZ0j-B8i-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enLWqCuwbVguiZ0j-B8i-11" target="ebJakLNneHwEDUw2bCFc-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="enLWqCuwbVguiZ0j-B8i-11" value="담당자지정&lt;br&gt;(게시)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="enLWqCuwbVguiZ0j-B8i-11" value="담당자지정" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1014.5" y="2668" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="enLWqCuwbVguiZ0j-B8i-27" target="enLWqCuwbVguiZ0j-B8i-29">
@@ -1494,7 +1494,7 @@
         <mxCell id="enLWqCuwbVguiZ0j-B8i-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enLWqCuwbVguiZ0j-B8i-38" target="enLWqCuwbVguiZ0j-B8i-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="enLWqCuwbVguiZ0j-B8i-38" value="담당자지정&lt;br&gt;(게시)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="enLWqCuwbVguiZ0j-B8i-38" value="담당자지정" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1014.5" y="2795" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enLWqCuwbVguiZ0j-B8i-39" target="enLWqCuwbVguiZ0j-B8i-30">
@@ -1540,7 +1540,7 @@
         <mxCell id="enLWqCuwbVguiZ0j-B8i-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enLWqCuwbVguiZ0j-B8i-52" target="enLWqCuwbVguiZ0j-B8i-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="enLWqCuwbVguiZ0j-B8i-52" value="담당자지정&lt;br&gt;(게시)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="enLWqCuwbVguiZ0j-B8i-52" value="담당자지정" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1014.5" y="2975" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-53" value="각 운영, 영업" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
@@ -1555,7 +1555,7 @@
         <mxCell id="enLWqCuwbVguiZ0j-B8i-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enLWqCuwbVguiZ0j-B8i-57" target="enLWqCuwbVguiZ0j-B8i-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="enLWqCuwbVguiZ0j-B8i-57" value="처리 진행&lt;br&gt;(진행중)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="enLWqCuwbVguiZ0j-B8i-57" value="처리 진행" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1203.5" y="2975" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enLWqCuwbVguiZ0j-B8i-59" target="enLWqCuwbVguiZ0j-B8i-61">
