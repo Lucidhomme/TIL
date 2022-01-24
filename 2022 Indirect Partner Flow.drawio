@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T09:14:35.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="rGTZcz0XSZKioyryGN1g" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T10:52:00.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="jcVEvSlgr_DyZPQjrGBV" version="16.4.3" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1207,7 +1207,7 @@
         <mxCell id="ebJakLNneHwEDUw2bCFc-35" value="티켓발행" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="825.75" y="2668" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ebJakLNneHwEDUw2bCFc-39" value="답변완료" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ebJakLNneHwEDUw2bCFc-39" value="처리완료" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1208.5" y="2668" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ebJakLNneHwEDUw2bCFc-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" parent="1" target="ebJakLNneHwEDUw2bCFc-57" edge="1">
@@ -1218,7 +1218,7 @@
         <mxCell id="RfNNSTeZ5u7emB79EnO7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ebJakLNneHwEDUw2bCFc-57" target="RfNNSTeZ5u7emB79EnO7-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ebJakLNneHwEDUw2bCFc-57" value="답변메일알림" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ebJakLNneHwEDUw2bCFc-57" value="처리완료&lt;br&gt;메일알림" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1386.5" y="2668" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ebJakLNneHwEDUw2bCFc-61" value="To 문의자" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
@@ -1466,7 +1466,7 @@
         <mxCell id="enLWqCuwbVguiZ0j-B8i-29" value="티켓발행" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="825.75" y="2795" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="enLWqCuwbVguiZ0j-B8i-30" value="답변완료" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="enLWqCuwbVguiZ0j-B8i-30" value="처리완료" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1350.75" y="2795" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" target="enLWqCuwbVguiZ0j-B8i-33">
@@ -1477,7 +1477,7 @@
         <mxCell id="enLWqCuwbVguiZ0j-B8i-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enLWqCuwbVguiZ0j-B8i-33" target="enLWqCuwbVguiZ0j-B8i-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="enLWqCuwbVguiZ0j-B8i-33" value="답변메일알림" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="enLWqCuwbVguiZ0j-B8i-33" value="처리완료&lt;br&gt;메일알림" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1528.75" y="2795" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-34" value="To 문의자" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
@@ -1573,7 +1573,7 @@
         <mxCell id="enLWqCuwbVguiZ0j-B8i-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enLWqCuwbVguiZ0j-B8i-61" target="enLWqCuwbVguiZ0j-B8i-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="enLWqCuwbVguiZ0j-B8i-61" value="답변메일알림" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="enLWqCuwbVguiZ0j-B8i-61" value="처리완료&lt;br&gt;메일알림" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1580.25" y="2975" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-62" value="To 문의자" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
