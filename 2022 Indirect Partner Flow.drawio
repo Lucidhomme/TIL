@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T00:36:34.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="coTi3ZTAcws8udHqejld" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T01:53:55.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="pO0PA16MkN_kq_FJTNBk" version="16.4.5" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1460,31 +1460,33 @@
         <mxCell id="enLWqCuwbVguiZ0j-B8i-27" value="공유사서함 확인" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="633.25" y="2795" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQb7bCoa963IW6obuZWM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enLWqCuwbVguiZ0j-B8i-29" target="enLWqCuwbVguiZ0j-B8i-39">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mQb7bCoa963IW6obuZWM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enLWqCuwbVguiZ0j-B8i-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1019.25" y="2810" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-29" value="티켓발행" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="825.75" y="2795" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-30" value="처리완료" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1350.75" y="2795" width="120" height="30" as="geometry" />
+          <mxGeometry x="1198.5" y="2795" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" parent="1" target="enLWqCuwbVguiZ0j-B8i-33" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1470.75" y="2810" as="sourcePoint" />
+            <mxPoint x="1318.5" y="2810" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="enLWqCuwbVguiZ0j-B8i-33" target="enLWqCuwbVguiZ0j-B8i-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-33" value="처리완료&lt;br&gt;메일알림" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1528.75" y="2795" width="120" height="30" as="geometry" />
+          <mxGeometry x="1376.5" y="2795" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-34" value="To 문의자" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1551.25" y="2830" width="70" height="20" as="geometry" />
+          <mxGeometry x="1399" y="2830" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-35" value="만족도 조사" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1700.25" y="2795" width="120" height="30" as="geometry" />
+          <mxGeometry x="1548" y="2795" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="enLWqCuwbVguiZ0j-B8i-27" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1495,16 +1497,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-38" value="담당자지정" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1171.5" y="2795" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mQb7bCoa963IW6obuZWM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enLWqCuwbVguiZ0j-B8i-39" target="enLWqCuwbVguiZ0j-B8i-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="enLWqCuwbVguiZ0j-B8i-39" value="MW팀내&lt;br&gt;해결가능여부" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1019.25" y="2770" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="enLWqCuwbVguiZ0j-B8i-42" value="Yes" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="2780" width="40" height="20" as="geometry" />
+          <mxGeometry x="1019.25" y="2795" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enLWqCuwbVguiZ0j-B8i-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="enLWqCuwbVguiZ0j-B8i-48" target="enLWqCuwbVguiZ0j-B8i-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
