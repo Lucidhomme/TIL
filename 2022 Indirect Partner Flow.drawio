@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T00:47:35.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="m_oJZIOkaVbXkdMp71Wu" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-03T00:48:54.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="3Ndh4hYYt9iZ5g0bV6NB" version="16.4.7" type="github">
   <diagram id="EBI2LygRZCxqeJW2eF5e" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1564,7 +1564,7 @@
         <mxCell id="mQb7bCoa963IW6obuZWM-11" value="ATS팀내&lt;br&gt;해결가능여부" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1201.5" y="2950" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mQb7bCoa963IW6obuZWM-14" value="MSP 이관" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="mQb7bCoa963IW6obuZWM-14" value="MSP / CC그룹 이관" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1358.5" y="3050" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQb7bCoa963IW6obuZWM-16" value="No" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
